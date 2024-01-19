@@ -1,4 +1,4 @@
-# IMA203---TP2-M-thodes-Variationnelles
+# IMA203---TP2-Méthodes-Variationnelles
 
 Vous avez ici le script python, le fichier notebook, le texte du TP et deux images pour faire des tests.
 
